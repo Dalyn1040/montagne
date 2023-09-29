@@ -1,0 +1,9 @@
+*{margin: 0;
+    padding: 0;
+}
+/* header****/
+header{ /* on pense toujours à la hauteur et largeur de l'élément*/
+height: 100vh; /* 100 viewport height : toute la hauteur de l'écran*/
+background: url("../img/montagne.jpg");
+background-size: cover;
+}
